@@ -1,3 +1,5 @@
+[![An image of @ashishgogula's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishgogula)](https://holopin.io/@ashishgogula)
+
 <h1 align="center">👋 Hello, I'm Ashish Gogula</h1>
 <h3 align="center">💻 Software Engineer | 🎨 Graphic Designer | 🖌️ UI/UX Enthusiast</h3>
 
