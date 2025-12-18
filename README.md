@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://ghchart.rshah.org/FF5722/ashishgogula" alt="Ashish's GitHub Chart" width="1000" />
+</p>
+
 <div align="center">
 
 [![Holopin Badges](https://holopin.me/ashishgogula)](https://holopin.io/@ashishgogula)
