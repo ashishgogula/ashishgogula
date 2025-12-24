@@ -21,14 +21,6 @@
 
 I'm a **Software & Design Engineer** based in Hyderabad, and I love the sweet spot where beautiful design meets solid engineering. I solve problems, improve user experiences, and ship features that move the needle.
 
-### My Approach
-- **User-First Thinking:** Every technical decision starts with "Will this make life easier for our users?"
-- **Business Impact:** I connect the dots between code and business goals
-- **Team Collaboration:** I work best when bouncing ideas off designers, product folks, and fellow engineers
-- **Practical Solutions:** Clean, maintainable code that other developers will thank you for
-
----
-
 ## 🛠️ What's in My Toolkit
 
 **Frontend Magic**  
@@ -42,28 +34,6 @@ Figma • Responsive Design • Component Libraries • Accessibility Standards
 
 **The Essentials**  
 Git • CI/CD • Security (JWT, OAuth, Okta) • Performance Optimization • Testing
-
----
-
-## 💼 The Kind of Work I Love
-
-**Building Products From Scratch**  
-There's something special about taking an idea from whiteboard to production. I build full-stack applications that handle everything from user authentication to real-time data processing.
-
-**Making Things Better**  
-Whether it's refactoring legacy code, improving load times, or redesigning a confusing interface, I get excited about incremental improvements that compound over time.
-
-**Bridging Gaps**  
-I speak both "developer" and "human." This helps me translate technical constraints into business decisions and user needs into technical requirements.
-
----
-
-## 🌱 Right Now, I'm...
-
-- Building scalable applications that can grow with your business
-- Exploring new ways to improve developer and user experience
-- Contributing to open-source projects when I can
-- Always learning - recently diving deeper into system design
 
 ---
 
