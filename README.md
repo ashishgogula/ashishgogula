@@ -1,67 +1,44 @@
-<div align="center">
+# Ashish Gogula
 
-[![Holopin Badges](https://holopin.me/ashishgogula)](https://holopin.io/@ashishgogula)
+Software & Design Engineer
 
-# Hey there! 👋 I'm Ashish
+I help people turn ideas into real products. Tools and AI can speed things up, but they can’t replace taste, judgment, or the care that goes into building something meaningful. I love shaping interfaces, solving problems, and growing alongside others who value craft as much as I do.
 
-### I turn ideas into products people actually want to use
-
-<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="580"/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://ashishgogula.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishgogula)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ashishgogula)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishgogula12@gmail.com)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://ashishgogula.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishgogula)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ashishgogula12@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/ashishgogula)
 
 ---
 
-## 🎯 What I Do
+## Technical Expertise
 
-I'm a **Software & Design Engineer** based in Hyderabad, and I love the sweet spot where beautiful design meets solid engineering. I solve problems, improve user experiences, and ship features that move the needle.
-
-## 🛠️ What's in My Toolkit
-
-**Frontend Magic**  
-React • Next.js • Angular • TypeScript • Redux • Tailwind • Framer Motion
+**Frontend Development**  
+React • Next.js • Angular • TypeScript • Redux • Tailwind CSS • Framer Motion
 
 **Backend & Infrastructure**  
-Java • Spring Boot • Node.js • REST APIs • MySQL • Redis • AWS • Docker
+Java • Spring Boot • Node.js • RESTful APIs • MySQL • Redis • AWS • Docker
 
-**Design & User Experience**  
-Figma • Responsive Design • Component Libraries • Accessibility Standards
+**Design Engineering**  
+Figma • Design Systems • Component Architecture • Responsive Design • WCAG Accessibility
 
-**The Essentials**  
-Git • CI/CD • Security (JWT, OAuth, Okta) • Performance Optimization • Testing
+**Engineering Practices**  
+Git • CI/CD • Authentication (JWT, OAuth, Okta) • Performance Optimization • Testing
 
----
+## Professional Focus
 
-## 🤝 Let's Work Together
+I'm seeking opportunities where I can contribute to products that matter, working with teams that value quality, collaboration, and continuous improvement. My approach combines strategic thinking with hands-on execution to deliver measurable results.
 
-I'm looking for opportunities where I can:
-- Make a real impact on products and users
-- Work with teams that value both quality and speed
-- Contribute to meaningful projects
-- Keep learning and growing
+**Currently open to:** Full-time roles • Contract engagements • Collaborative projects
 
-**I'm open to:** Full-time roles • Contract work • Interesting projects • Tech conversations
+## Get in Touch
 
----
+I'm always interested in discussing new opportunities, technical challenges, or potential collaborations.
 
-<div align="center">
-
-### 📫 Reach Out
-
-Whether you want to discuss a project, grab a virtual coffee, or just talk tech—my inbox is open.
-
-[![Portfolio](https://img.shields.io/badge/🌐_Check_Out_My_Work-FF5722?style=for-the-badge)](https://ashishgogula.in)
-[![Email Me](https://img.shields.io/badge/📧_Let's_Talk-D14836?style=for-the-badge)](mailto:ashishgogula12@gmail.com)
+**Website:** [ashishgogula.in](https://ashishgogula.in)  
+**Email:** [ashishgogula12@gmail.com](mailto:ashishgogula12@gmail.com)  
+**LinkedIn:** [linkedin.com/in/ashishgogula](https://linkedin.com/in/ashishgogula)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ashishgogula&color=blueviolet&style=for-the-badge)
-
-*Built with 💙 by someone who actually cares about the details*
-
-</div>
+[![Holopin Badges](https://holopin.me/ashishgogula)](https://holopin.io/@ashishgogula)
