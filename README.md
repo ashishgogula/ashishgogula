@@ -1,8 +1,6 @@
 # Ashish Gogula
 
-Design Engineer building performance-focused UI for React & Next.js.
-
-Currently crafting open-source UI primitives and developer tools.
+Design Engineer
 
 [![Holopin Badges](https://holopin.me/ashishgogula)](https://holopin.io/@ashishgogula)
 
