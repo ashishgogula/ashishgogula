@@ -1,6 +1,7 @@
 # Ashish Gogula
 
-Design engineer. I build motion and WebGL components for React.
+Design engineer. I like to build things people enjoy using, an I care about the last 10% of an interface: how it moves, sounds and feels under the cursor.
+
 
 ### Planes · [useplanes.com](https://useplanes.com)
 
