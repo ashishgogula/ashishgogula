@@ -13,7 +13,7 @@ Full Stack AI and Design engineer. I like to build things people enjoy using, an
 
 They install with the shadcn CLI into your own repo, so the code is yours to edit.
 
-<a href="https://useplanes.com"><img src="https://useplanes.com/opengraph-image" width="720" alt="Planes: animated components for shadcn"></a>
+<a href="https://useplanes.com"><img src="planes.png" width="720" alt="Planes: animated components for shadcn"></a>
 
 ### Try one free
 
@@ -22,4 +22,9 @@ They install with the shadcn CLI into your own repo, so the code is yours to edi
 ```bash
 npx shadcn add https://useplanes.com/r/cover-flow.json
 ```
+
+### Elsewhere
+
+[Portfolio](https://ashishgogula.in) · [X](https://x.com/ashishgogula) · [LinkedIn](https://linkedin.com/in/ashishgogula)
+
 [![Holopin Badges](https://holopin.me/ashishgogula)](https://holopin.io/@ashishgogula)
