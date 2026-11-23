@@ -1,11 +1,17 @@
 # Ashish Gogula
 
-Design engineer. I like to build things people enjoy using, an I care about the last 10% of an interface: how it moves, sounds and feels under the cursor.
+Full Stack AI and Design engineer. I like to build things people enjoy using, and I care about the last 10% of an interface: how it moves, sounds and feels under the cursor.
 
 
 ### Planes · [useplanes.com](https://useplanes.com)
 
-130+ animated components for shadcn: dithered shaders, 3D type, charts, heroes. They install with the shadcn CLI into your own repo, so the code is yours to edit.
+230+ animated React components for shadcn, in 23 categories:
+
+- **Page sections:** heroes, navbars, features, bento grids, pricing, testimonials, FAQs, CTAs, contact, waitlist, logins, footers
+- **UI:** AI chat and agent interfaces, controls, carousels, cards and media, charts
+- **Effects:** WebGL shader backgrounds, text effects, physics, voxel dioramas
+
+They install with the shadcn CLI into your own repo, so the code is yours to edit.
 
 <a href="https://useplanes.com"><img src="https://useplanes.com/opengraph-image" width="720" alt="Planes: animated components for shadcn"></a>
 
@@ -16,11 +22,4 @@ Design engineer. I like to build things people enjoy using, an I care about the 
 ```bash
 npx shadcn add https://useplanes.com/r/cover-flow.json
 ```
-
-### Elsewhere
-
-[Portfolio](https://ashishgogula.in) · [X](https://x.com/ashishgogula) · [LinkedIn](https://linkedin.com/in/ashishgogula)
-
-Open to collaboration and ecosystem contributions.
-
 [![Holopin Badges](https://holopin.me/ashishgogula)](https://holopin.io/@ashishgogula)
